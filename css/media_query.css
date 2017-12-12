@@ -1,0 +1,179 @@
+@media (min-width: 900px) {
+    
+    #main h1{
+        font-size: 40px;
+    }
+    
+    #about p{
+        font-size:18px ;
+    }
+    
+    label{
+        width:100px;
+        font-size: 14px;
+    }
+    
+    input{
+        width:220px;
+        height:30px;
+        border-width:0px 0px 2px 0px;
+    }
+    
+    textarea{
+        width:220px;
+        height:60px;
+        border-width:0px 0px 2px 0px;
+    }
+    
+    .btn{
+        font-size: 14px;
+    }
+    
+    h6{
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width:899px){
+    
+    #main{
+        margin:60px 5px 15px 5px;
+    }
+    
+    #projects,#about,#contact{
+        margin:15px 5px 15px 5px;
+    }
+    
+    #main h1{
+        font-size: 30px;
+    }
+    
+    #about p{
+        font-size:16px ;
+    }
+    
+    label{
+        width:100px;
+        font-size: 13px;
+    }
+    
+    input{
+        width:200px;
+        height:25px;
+        border-width:0px 0px 1px 0px;
+    }
+    
+    textarea{
+        width:200px;
+        height:50px;
+        border-width:0px 0px 1px 0px;
+    }
+    
+    .btn{
+        font-size: 13px;
+    }
+    
+    h6{
+        font-size: 18px;
+    }
+}
+
+
+@media (min-width: 376px) and (max-width:767px) {
+    
+    #main{
+        margin:60px 5px 15px 5px;
+    }
+    
+    #projects, #about, #contact{
+        margin:15px 5px 15px 5px;
+    }
+    
+    #main h1{
+        font-size: 18px;
+    }
+    
+    #about p{
+        font-size:14px ;
+        width:80%;
+    }
+    
+    label{
+        width:100px;
+        font-size: 12px;
+    }
+    
+    input{
+        width:180px;
+        height:30px;
+        border-width:0px 0px 1px 0px;
+    }
+    
+    textarea{
+        width:180px;
+        height:60px;
+        border-width:0px 0px 1px 0px;
+    }
+    
+    .btn{
+        font-size: 12px;
+    }
+    
+    h6{
+        font-size: 17px;
+    }
+    
+    .container-fluid{
+        padding: 0px !important;
+    }
+}
+
+@media (max-width: 375px) {
+    
+    #main{
+        margin:60px 0px 15px 0px;
+    }
+    
+    #projects,#about,#contact{
+        margin:15px 0px 15px 0px;
+    }
+    
+    #main h1{
+        font-size: 16px;
+    }
+    
+    #about p{
+        font-size:13px ;
+        width:90%;
+    }
+    
+    label{
+        width:100px;
+        font-size: 12px;
+    }
+    
+    input{
+        width:120px;
+        height:20px;
+        border-width:0px 0px 1px 0px;
+    }
+    
+    textarea{
+        width:120px;
+        height:40px;
+        border-width:0px 0px 1px 0px;
+    }
+    
+    .btn{
+        font-size: 12px;
+    }
+    
+    h6{
+        font-size: 15px;
+    }
+    
+    .container-fluid{
+        padding: 0px !important;
+    }
+}
